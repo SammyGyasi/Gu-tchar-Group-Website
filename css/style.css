@@ -1103,7 +1103,7 @@ a:focus {
 
 @media (max-width: 768px) {
     .call-to-action a {
-        float: left;
+        float: none;
         margin-top: 30px;
     }
 }
